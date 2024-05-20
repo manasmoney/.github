@@ -1,6 +1,6 @@
 # Manas Money by Manas Madrecha
 
-Get premium stock recommendations for Indian stock markets for long-term wealth generation. 
+Get High Quality Stock Ideas to invest in Indian stock market. 
 
 - Website: https://manasmoney.in
 - Web App: https://app.manasmoney.in
