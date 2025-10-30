@@ -1,9 +1,7 @@
 # Manas Money by Manas Madrecha
 
-Get High Quality Stock Ideas to invest in Indian stock market. 
+Manas Money provides FREE Investment Guidance on Mutual Funds and Financial Planning
 
-- Website: https://manasmoney.in
-- Web App: https://app.manasmoney.in
-- Play Store (Android) app:  https://play.google.com/store/apps/details?id=in.manasmoney.app.twa
+- Website: https://manasmoney.com
 
-**SEBI registered Research Analyst (INH000013651)**
+**AMFI registered MFD**
